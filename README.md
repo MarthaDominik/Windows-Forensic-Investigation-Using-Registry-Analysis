@@ -31,7 +31,7 @@ During the analysis of the system, I identified a total of **six user accounts**
   - **Administrator (User ID: 500)**: Built-in account for administering the computer/domain.
   - **Guest (User ID: 501)**: Built-in account for guest access to the computer/domain.
   - **WDAGUtilityAccount (User ID: 504)**: A system account used by Windows Defender Application Guard.
-  - 
+  
 <img width="1064" alt="System-Generated Accounts" src="https://github.com/user-attachments/assets/12761545-12a3-4f94-a750-626ccc65883e">
 
 <img width="1062" alt="User Accounts Details" src="https://github.com/user-attachments/assets/076597d3-f5e0-48d0-807e-8df385bbc7ac">
@@ -40,7 +40,7 @@ During the analysis of the system, I identified a total of **six user accounts**
   - **THM-4n6 (User ID: 1001)**: This account was a member of the Administrators group. A password hint “count” was set for this account.
   - **thm-user (User ID: 1002)**: Belonged to the Users group and had no password hint set.
   - **thm-user2 (User ID: 1003)**: Also part of the Users group, this account had never logged into the system.
-  - 
+  
 <img width="1150" alt="User-Created Accounts" src="https://github.com/user-attachments/assets/64534060-b715-4d18-a774-90776fdec224">
 
 <img width="1093" alt="Detailed User Information" src="https://github.com/user-attachments/assets/b85d2d42-d4ed-47c2-b8de-c614bb9b4f0c">
